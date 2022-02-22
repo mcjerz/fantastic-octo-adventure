@@ -1,2 +1,2 @@
 # fantastic-octo-adventure
-old exercises to do over
+first angular cli demo project
